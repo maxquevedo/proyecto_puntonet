@@ -1,0 +1,9 @@
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\bin\ArmalaTu.Presentacion.dll.config
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\bin\ArmalaTu.Presentacion.dll
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\bin\ArmalaTu.Presentacion.pdb
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\obj\Debug\ArmalaTu.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\obj\Debug\ArmalaTu.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\obj\Debug\ArmalaTu.Presentacion.dll
+C:\Users\Informatica\Desktop\ArmalaTu_1.8\ArmalaTu.Presentacion\obj\Debug\ArmalaTu.Presentacion.pdb
